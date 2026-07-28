@@ -3,7 +3,7 @@
 **Status:** proposed
 **Date:** 2026-06-24 (US/Mountain)
 **Author:** shanevcantwell, with Claude (orchestrator) as drafting collaborator
-**Related:** ADR-LNF-0002 (refines Null-former node role, Falsifier return shape, and Appendix-A Falsifier instantiation); ADR-LNF-0003 (scored-atom interaction medium built on this pipeline's gate discipline)
+**Related:** ADR-LNF-0002 (refines Null-former node role, Falsifier return shape, and Appendix-A Falsifier instantiation); ADR-LNF-0003 (scored-atom interaction medium built on this pipeline's gate discipline); ADR-LNF-0005 (promotes the Falsifier from a peer node to a distinct category with a stateless-tool contract; amends the "three uniform recursive nodes" framing)
 **Supersedes:** —
 **Superseded by:** —
 
