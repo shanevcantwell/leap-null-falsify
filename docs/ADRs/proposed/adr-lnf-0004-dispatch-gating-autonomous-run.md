@@ -1,6 +1,6 @@
 # ADR-LNF-0004: Dispatch-Gating — LNF Applied to an Orchestrator's Forward Pass (a substrate-independent instantiation, with a magnitude-miscalibration field case)
 
-**Status:** proposed
+**Status:** ratified
 **Date:** 2026-06-26 (US/Mountain)
 **Author:** shanevcantwell, with Claude (orchestrator) as drafting collaborator
 **Related:** ADR-LNF-0001 (the pipeline this instantiates); ADR-LNF-0002 (coefficient-correction return and the magnitude-over-fabrication finding, used directly here); ADR-LNF-0003 (scored-atom medium — the substrate this application deliberately does *not* require)

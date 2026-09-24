@@ -1,6 +1,6 @@
 # ADR-LNF-0005: The Falsifier Is a Category, Not a Peer Node — a Stateless H0-in Falsifier Tool
 
-**Status:** proposed
+**Status:** ratified
 **Date:** 2026-07-28 (US/Mountain)
 **Author:** shanevcantwell, with Claude (orchestrator) as drafting collaborator
 **Related:** ADR-LNF-0001 (amends its "three uniform recursive nodes" framing and Appendix-A Falsifier instantiation); ADR-LNF-0002 (adopts its `coefficient-correction` return and numeric-discriminator-first ordering; locates its iterative null re-formation *outside* the stateless tool); ADR-LNF-0004 (advances its "Extraction" open question — a concrete decoupling of F from the AoT fork; consistent with its Falsifier-as-read-only-dispatch instantiation); ADR-ARC-001 (supersedes its `falsify.md`-as-leaf-agent framing; F is not a leaf); ADR-LNF-0003 (the AoT scored-atom medium is the L/N-side substrate this record deliberately does *not* place F on)
